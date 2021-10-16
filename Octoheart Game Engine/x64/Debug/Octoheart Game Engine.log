@@ -1,0 +1,85 @@
+﻿  api.cpp
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(31,8): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(32,8): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(32,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(33,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(34,9): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(35,9): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(36,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(55,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+  EventsHandler.cpp
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Object.cpp
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(6,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(6,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(7,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(7,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(8,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(13,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(13,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(14,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(14,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.cpp(15,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(31,8): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\Window.h(32,8): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\EventsHandler.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(32,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(33,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(34,9): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(35,9): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(36,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\e20un\source\repos\Octoheart Game Engine\Octoheart Game Engine\api.cpp(55,8): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+  Time.cpp
+  Generating Code...
+  Octoheart Game Engine.vcxproj -> C:\Users\e20un\source\repos\Octoheart Game Engine\x64\Debug\Octoheart Game Engine.exe
